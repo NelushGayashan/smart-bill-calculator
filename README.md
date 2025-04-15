@@ -2,6 +2,11 @@
 
 A modern React application for easily splitting bills and calculating tips among multiple people.
 
+## 🚀 Live Demo
+
+Check out the live version here:  
+👉 [smart-bill-calculator.netlify.app](https://smart-bill-calculator.netlify.app/)
+
 ## Overview
 
 The Smart Bill Calculator provides an intuitive interface for calculating and distributing bill payments among friends, roommates, or colleagues. It supports both even splits and custom contribution percentages, making it ideal for various bill-sharing scenarios.
