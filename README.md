@@ -57,6 +57,7 @@ The Smart Bill Calculator provides an intuitive interface for calculating and di
 ## Screenshots
 
 ![img_1.png](img_1.png)
+![img_2.png](img_2.png)
 
 ## Code Structure
 
