@@ -5,5 +5,5 @@ import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
     base: '/smart-bill-calculator/'
-    plugins: [react(), tailwindcss()],
+    plugins: [react()],
 });
